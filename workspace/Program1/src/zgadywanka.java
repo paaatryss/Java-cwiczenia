@@ -23,6 +23,9 @@ public class zgadywanka {
 		return liczba;
 	}
 	
+	
+	
+	
 	public static void zgaduj(){	/*Metoda sprawdzajaca czy wybrana liczba jest rowna liczbie uzytkownika */
 		
 		boolean ruchPetli = true;
