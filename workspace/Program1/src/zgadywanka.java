@@ -1,4 +1,3 @@
-import java.io.IOException;
 import java.util.Scanner;
 import java.lang.Math;
 
@@ -59,7 +58,7 @@ public class zgadywanka {
 		}
 	}
 	
-	public static void main(String args[]) throws IOException{
+	public static void main(String args[]) {
 		
 		System.out.println("Komputer sprobuje zgadnac Twoja liczbe z zakresu 0-100.");
 		System.out.println("Dostepne komendy to mniej, wiecej, zgadles.");
